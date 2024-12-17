@@ -3,7 +3,7 @@
 Task 1 Status - ✔️
 
 
-Task 2 Status - Working
+Task 2 Status - ✔️
 
 
 Task 3 Status - Working
